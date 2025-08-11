@@ -47,7 +47,7 @@
 		<div class="Reveal relative z-[1] flex flex-col items-center justify-center">
 			<Reveal />
 			<div class="pt-20">
-				<a href="https://discord.com/invite/6Pab63hMAq" target="_blank">
+				<a href="https://discord.gg/Mjafy2EHfF" target="_blank">
 					<SchineBorder />
 				</a>
 			</div>
