@@ -4,7 +4,7 @@
 </script>
 
 <div class="z-10 flex items-center justify-center">
-    <a href="https://discord.com/invite/6Pab63hMAq">
+    <a href="https://discord.com/invite/Mjafy2EHfF">
 	<AnimatedGradientText>
         🎉 <hr class="mx-2 h-4 w-[1px] shrink-0 bg-gray-300" />
 			{' '}
