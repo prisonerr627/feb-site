@@ -35,7 +35,7 @@
 				src="ramadan.jpg"
 				srcset="ramadan.jpg, https://ik.imagekit.io/rs8qlp3dz/ramadan.jpg"
 				alt="Background"
-				class="h-[calc(100vh+20px)] w-auto object-cover brightness-50"
+				class="h-full w-full object-cover brightness-50"
 				aria-hidden="true"
 			/>
 		</div>
@@ -73,12 +73,12 @@
 			</p>
 		</div>
 		<div class="mx-auto flex justify-center px-4 sm:px-8 md:px-12 lg:px-16">
-			<div class="relative rounded-3xl border-2 border-gray-300 sm:border-4">
+			<div class="relative w-full max-w-4xl overflow-hidden rounded-3xl border-2 border-gray-300 sm:border-4">
 				<BorderBeam size={150} duration={12} delay={0} />
 				<img
 					src="discord_general.png"
 					alt="Discord General chat for Future Entrepreneurs Bangladesh"
-					class="h-full w-full rounded-3xl object-contain"
+					class="w-full h-auto rounded-3xl object-contain"
 				/>
 			</div>
 		</div>
