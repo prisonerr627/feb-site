@@ -76,7 +76,7 @@
 			<div class="relative w-full max-w-4xl overflow-hidden rounded-3xl border-2 border-gray-300 sm:border-4">
 				<BorderBeam size={150} duration={12} delay={0} />
 				<img
-					src="discord_general.png"
+					src="discord_general.jpg"
 					alt="Discord General chat for Future Entrepreneurs Bangladesh"
 					class="w-full h-auto rounded-3xl object-contain"
 				/>
